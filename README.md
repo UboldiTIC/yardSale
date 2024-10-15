@@ -12,4 +12,4 @@ Prof. Estefany Aguilar
 
 [Repositorio del curso](https://github.com/platzi/curso-frontend-developer-practico)
 
-
+El proyecto se realizó enbebiendo los estilos en el archivo .html porque así lo sugirió el curso dado el contexto o el proposito pedagógico.
